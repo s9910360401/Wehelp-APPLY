@@ -1,0 +1,39 @@
+h1{
+    margin-top: auto;
+    text-align: center;
+    color: rgb(165, 52, 42);
+}
+
+.wrap{
+    margin:0 auto;
+    background-color:#85C1E9 ;
+    font-size: 26px;
+    border-bottom: 3px solid #333
+}
+
+
+
+
+h2{
+    color: OrangeRed;
+}
+
+.ile{
+    display: inline;
+}
+
+.aaa svg{
+    float:left;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+.lego h2{
+    display:inline
+}
+.lego svg{
+    position: relative;
+    top: 20px;
+    left: 0px;
+}
